@@ -37,7 +37,7 @@ At (8/10/16, 4:45:21.226 PM) domain iamnotbatman[.]com is compromised allowing a
 
 # 5. Methodology
 
-* Performed initial log review using Splunk to identify anomalies through high-level statistics such as top source IPs, most accessed URLs, and frequent request patterns.
+* Performed initial log review using Splunk to identify anomalies through statistics such as top source IPs, most accessed URLs, and frequent request patterns.
 
 * Analyzed HTTP traffic in detail, including reconstruction of HTTP streams, to identify malicious requests, payload delivery, and exploitation activity.
 
